@@ -22,4 +22,4 @@ https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
 W3schols
 https://www.w3schools.com/python/pandas/default.asp
 
-Using these libraries write a program to count how many movies belong to each genre using the CSV file tmdb_5000_movies. The graph should be like week1.jpeg.
+Using these libraries write a program to count how many movies belong to each genre using the CSV file tmdb_5000_movies. The graph should be like week1.png.
