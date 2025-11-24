@@ -1,0 +1,31 @@
+Text Pre-processing and Vectorization are 2 very important concepts in Natural Language Processing or even otherwise. The text that we vectorize should be pre processes before it.
+
+In  our movie recommendation system, these steps of preprocessing and vectorization will help us distill the summary of a movie—its plot, genres, cast, and more—into a structured format that can be compared and analyzed by algorithms.
+
+This week we will focus on the pre processing part.
+
+Main Topics to Keep in Mind:
+
+Tokenization
+Lowercase conversion
+Stopwords removal
+Stemming
+Lemmatization
+
+Resources
+
+Detailed Guide
+https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/
+
+Youtube Video( focussing more on post-cleanup steps like tokenization, stemming& lemmatization)
+https://www.youtube.com/watch?v=nxhCyeRR75Q
+
+Stemming vs Lemmantization
+https://www.ibm.com/topics/stemming-lemmatization#:~:text=The%20practical%20distinction%20between%20stemming,be%20found%20in%20the%20dictionary
+
+Text Processing with NLTK
+( we will be using NLTK in our code)
+
+https://www.youtube.com/playlist?list=PLS1QulWo1RIZDws-_0Bfw5FZFmQJWtMl1
+
+https://www.nltk.org/
