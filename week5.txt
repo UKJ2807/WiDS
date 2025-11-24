@@ -1,0 +1,19 @@
+🎬 Final Movie Recommendations – Steps for This Week
+We will now generate the final set of movie recommendations. Follow the steps below:
+
+Create a CountVectorizer object
+Use a word-based analyzer with bigrams (1–2 word sequences), and ignore rare words by setting a minimum document frequency.
+
+Generate the Count Matrix
+Transform the text data into a numerical count matrix. The shape should be approximately (2500, 6892) depending on the dataset.
+
+Compute and Save the Cosine Similarity Matrix
+Use the count matrix to calculate pairwise cosine similarity between movies. Save the resulting matrix to a CSV file.
+
+Define a Recommendation Function
+Create a function that takes a movie name as input and returns a list of recommended movies based on similarity scores.
+
+Output Relevant Details
+The output of the recommendation function should include the movie title, director, and release date for each recommended movie.
+
+The example output for movie Avatar is given in week5.png
