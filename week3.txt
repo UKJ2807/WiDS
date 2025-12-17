@@ -36,4 +36,4 @@ https://www.youtube.com/playlist?list=PLS1QulWo1RIZDws-_0Bfw5FZFmQJWtMl1
 
 https://www.nltk.org/
 
-Your task is to merge the four datasets-links.csv, keywords.csv,movies_metadata.csv and credits.csv and create a master dataset which we will be using for further analysis
+Your task is to merge the four datasets-links.csv, keywords.csv,movies_metadata.csv and credits.csv and create a master dataset which we will be using for further analysis. Also print the columns and shape of the master dataset. You should get the details as in week3.png
