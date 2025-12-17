@@ -6,11 +6,9 @@ https://youtu.be/bPYJi1E9xeM?feature=shared
 https://youtu.be/m_CooIRM3UI?feature=shared
 https://youtu.be/TPivN7tpdwc?feature=shared
 
-Text Pre-processing and Vectorization are 2 very important concepts in Natural Language Processing or even otherwise. The text that we vectorize should be pre processes before it.
+Text Pre-processing and Vectorization are 2 very important concepts in Natural Language Processing or even otherwise. The text that we vectorize should be pre processed before it is used.
 
 In  our movie recommendation system, these steps of preprocessing and vectorization will help us distill the summary of a movie—its plot, genres, cast, and more—into a structured format that can be compared and analyzed by algorithms.
-
-This week we will focus on the pre processing part.
 
 Main Topics to Keep in Mind:
 
