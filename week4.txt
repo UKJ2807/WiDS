@@ -1,6 +1,0 @@
-https://youtu.be/uROvhp7cj6Q
-https://youtu.be/eyEabQRBMQA
-https://youtu.be/sK9NUIF85Ow
-https://youtu.be/Zc4CcUkYKJk
-
-These are the some projects that will help you understand how recommendation systems work.Make sure to watch these.Now one step is remaining in creating our data base code for which is provided here.Please go through the code and don't just copy it for final project.
