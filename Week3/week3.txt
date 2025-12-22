@@ -6,6 +6,8 @@ https://youtu.be/bPYJi1E9xeM?feature=shared
 https://youtu.be/m_CooIRM3UI?feature=shared
 https://youtu.be/TPivN7tpdwc?feature=shared
 
+Your task is to merge the four datasets-links.csv, keywords.csv,movies_metadata.csv and credits.csv and create a master dataset which we will be using for further analysis. Also print the columns and shape of the master dataset. You should get the details as in week3.png. Ensure that only movies that have a valid mapping in the links.csv file are retained in the final dataset.
+
 Text Pre-processing and Vectorization are 2 very important concepts in Natural Language Processing or even otherwise. The text that we vectorize should be pre processed before it is used.
 
 In  our movie recommendation system, these steps of preprocessing and vectorization will help us distill the summary of a movie—its plot, genres, cast, and more—into a structured format that can be compared and analyzed by algorithms.
@@ -36,4 +38,3 @@ https://www.youtube.com/playlist?list=PLS1QulWo1RIZDws-_0Bfw5FZFmQJWtMl1
 
 https://www.nltk.org/
 
-Your task is to merge the four datasets-links.csv, keywords.csv,movies_metadata.csv and credits.csv and create a master dataset which we will be using for further analysis. Also print the columns and shape of the master dataset. You should get the details as in week3.png
